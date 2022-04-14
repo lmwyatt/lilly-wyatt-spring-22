@@ -1,6 +1,6 @@
 ---
-title: Sea Otters
-description: The sea otter (Enhydra lutris) is a marine mammal native to the coasts of the northern and eastern North Pacific Ocean.
+title: My Professional Portfolio
+description: A collection of professional photography works created by Lilly Wyatt Photography
 date: 2018-07-04
 tags:
   - number 2
@@ -8,7 +8,7 @@ layout: layouts/post.njk
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Section Header
+## Profeessional Work Examples
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
