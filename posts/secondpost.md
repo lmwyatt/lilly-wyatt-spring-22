@@ -6,13 +6,13 @@ tags:
   - number 2
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
 
 ## Profeessional Work Examples
+
+Lilly Wyatt’s professional portfolio includes a diverse range of photographic works over her last 3 years of shooting. Many senior sessions are included, showcasing her range in shooting portraits. Various events are also included in her portfolio. As she is pursuing a degree in journalism with an emphasis in photography from Iowa State, she has learned the skill of protest photography alongside the ethics of the visual genre. She has also shot a variety of weddings during her time as a photographer, primarily in the midwest. 
+
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
