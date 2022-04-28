@@ -1,19 +1,19 @@
 ---
 title: Introduction to Lilly Wyatt Photography
 description: Lilly Wyatt Photography is currently located in Ames, Iowa. 
-date: 2018-05-01
+date: 2022-04-28
 tags:
   - another tag
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
 ## Lilly Wyatt Photography
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Lilly Marie Photography was started in 2019 by now Junior at Iowa State, Lilly Wyatt. She started the business in her hometown of Muscatine, Iowa, and has since transitioned to Ames, Iowa. She is currently a photographer with Iowa State University and curates social media content for the Admissions Department. She has worked as a freelance photographer for the Des Moines Register, interned for Red 11 Media, worked with Lauren Liz of “Letter with Lauren Liz”, and created social media content for Burgie’s Coffee and Tea. Independently, she specializes in portraiture, weddings, and product photography. 
+
+
 
 ```text/2-3
 // this is a command
